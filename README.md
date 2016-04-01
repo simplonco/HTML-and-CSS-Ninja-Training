@@ -27,7 +27,7 @@ Après tout cela, vous aurez compris l'essentiel de CSS et pourrez passer serein
 **Attributs utilisés**
 ----------------------
 
-``` CSS
+```css
     \* pour définir à la main la largeur des éléments *\
     display: inline-block;
     
