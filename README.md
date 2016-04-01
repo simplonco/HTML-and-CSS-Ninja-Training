@@ -12,7 +12,7 @@
 
 <http://fr.learnlayout.com/>
 
-Page 1 à 6 ; la plupart du temps, il est souhaitable que width et height intègrent le padding et border. Cette partie vous explique comment faire
+Page 1 à 6 : la plupart du temps, il est souhaitable que width et height intègrent le padding et border. Cette partie vous explique comment faire.
 
 Pages 7 à 13 : explications sur le positionnement des éléments.
 
@@ -27,7 +27,7 @@ Après tout cela, vous aurez compris l'essentiel de CSS et pourrez passer serein
 **Attributs utilisés**
 ----------------------
 
-``` css
+``` CSS
     \* pour définir à la main la largeur des éléments *\
     display: inline-block;
     
