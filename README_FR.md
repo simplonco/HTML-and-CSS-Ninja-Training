@@ -78,7 +78,7 @@ Placer trois images de tailles initiales différentes dans une page.
 Ensuite, positionner afin d’obtenir un effet de cascade avec un décalage
 horizontal et vertical constant pour chaque image par rapport à la
 précédente. L’utilisateur doit pouvoir mettre chacune d’elles au premier
-plan en cliquant dessus (voir la propriété `z-index`).
+plan en passant la souris dessus (voir la propriété `z-index`).
 
 **Test 7 :**
 
