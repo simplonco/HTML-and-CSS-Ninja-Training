@@ -5,20 +5,20 @@
 
 * Comprendre les [Sélecteurs CSS](http://discourse.simplon.co/t/selecteurs-css/32/1)
 
-* Comprendre width height padding border margin
+* Comprendre `width`, `height`, `padding`, `border` and `margin`
 
 **Cours**
 ---------
 
 <http://fr.learnlayout.com/>
 
-Page 1 à 6 : la plupart du temps, il est souhaitable que width et height intègrent le padding et border. Cette partie vous explique comment faire.
+Page 1 à 6 : la plupart du temps, il est souhaitable que `width` et `height` intègrent le `padding` et `border`. Cette partie vous explique comment faire.
 
 Pages 7 à 13 : explications sur le positionnement des éléments.
 
 Page 14 : explication sur comment rendre un site responsive. Je recommande de sauter cette page pour le moment.
 
-Page 16 : description de display: inline-block pour aligner horizontalement des éléments qui d'habitude se rangent à la verticale.
+Page 16 : description de `display: inline-block` pour aligner horizontalement des éléments qui d'habitude se rangent à la verticale.
 
 Page 17 jusqu'à la fin : Je recommande de sauter ces pages pour le moment.
 
@@ -28,17 +28,17 @@ Après tout cela, vous aurez compris l'essentiel de CSS et pourrez passer serein
 ----------------------
 
 ```css
-    \* pour définir à la main la largeur des éléments *\
+    /* pour définir à la main la largeur des éléments */
     display: inline-block;
     
-    \* indispensable avec inline-block *\
+    /* indispensable avec inline-block */
     vertical-align: top;
-    box-sizing: border-box; \* cf. cours pour comprendre *\
+    box-sizing: border-box; /* cf. cours pour comprendre */
     width: 100%;
     min-height: 100px;
     border: 1px #000 solid;
-    margin: 0; \* marge externe *\
-    padding: 0; \* marge interne *\
+    margin: 0; /* marge externe */
+    padding: 0; /* marge interne */
 ```
 ------------------------------------------------------------
 
@@ -91,13 +91,7 @@ doit posséder un contenu éditorial.
 
 Créer une mise en page selon le modèle de la figure ci-dessous:
 
-![](media/image01.png)
-
-[exohtml.png](http://discourse.simplon.co/uploads/default/original/1X/56fb84ccace7ac3435101813835f602df2cd3425.png)[715x282
-3.14
-KB](http://discourse.simplon.co/uploads/default/original/1X/56fb84ccace7ac3435101813835f602df2cd3425.png)
-
-[](http://discourse.simplon.co/uploads/default/original/1X/56fb84ccace7ac3435101813835f602df2cd3425.png)
+![](http://discourse.simplon.co/uploads/default/original/1X/56fb84ccace7ac3435101813835f602df2cd3425.png)
 
 La colonne de gauche (repère 1) a une largeur de 200 pixels et le
 bandeau (repère 2) une hauteur de 150 pixels. Le bandeau contient le
