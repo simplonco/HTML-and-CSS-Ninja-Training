@@ -43,7 +43,7 @@ After all this, you understand the essentials of CSS and can confidently move on
 ```
 ------------------------------------------------------------
 
-EXERCICE 1 - HTML
+EXERCISE 1 - HTML
 -----------------
 
 **Test 1 :**
@@ -53,7 +53,7 @@ text and manage the overflow so it’ll be fully legible.
 
 **Test 2 :**
 
-Create five Titles (level 2) and display them as a list (look for the property `display`).
+Create five titles (level 2) and display them as a list (look for the property `display`).
 
 **Test 3 :**
 
@@ -85,42 +85,33 @@ column must have editorial content.
 
 Create a layout modeled on the figure below:
 
-![](media/image01.png)
+![](http://discourse.simplon.co/uploads/default/original/1X/56fb84ccace7ac3435101813835f602df2cd3425.png)
 
-[exohtml.png](http://discourse.simplon.co/uploads/default/original/1X/56fb84ccace7ac3435101813835f602df2cd3425.png)[715x282
-3.14
-KB](http://discourse.simplon.co/uploads/default/original/1X/56fb84ccace7ac3435101813835f602df2cd3425.png)
-
-[](http://discourse.simplon.co/uploads/default/original/1X/56fb84ccace7ac3435101813835f602df2cd3425.png)
-
-La colonne de gauche (repère 1) a une largeur de 200 pixels et le
-bandeau (repère 2) une hauteur de 150 pixels. Le bandeau contient le
-titre du site, la colonne de gauche un menu de la zone principale
-(repère 3) du texte et des images au choix. Le premier lien du menu doit
-afficher une page ayant la même structure et le même contenu dans les
-zones 1 et 2, mais un contenu éditorial différent dans la zone 3.
+The left column (item 1) has a width of 200 pixels and the panel (item 2) has a height of 150 
+pixels. The banner contains the title of the site. The left column contains a menu of the main 
+zone (item 3), text and images (your choice). The first link of the menu must display a page 
+having the same structure and the same content in zones 1 and 2, but a different editorial 
+content in Zone 3.
 
 RESSOURCE HTML
 --------------
 
 <https://developer.mozilla.org/fr/docs/Web/HTML/Element>
 
-EXERCICE 2 - CSS
+EXERCISE 2 - CSS
 ----------------
 
 <http://flukeout.github.io/>
 
-EXERCICE 3 - GABARITS
+EXERCISE 3 - TEMPLATES
 ---------------------
 
-Réaliser progressivement cette page, idéalement sans regarder le CSS.
+Progressively realize this page, ideally without looking at the CSS.
 
 <http://chatchan.us/gabarits.html>
 
-Les plus téméraires peuvent directement s'attaquer à la reproduction des
-gabarits de ce site :
+The more adventurous can directly reproduce the templates of this site: 
 
 <http://www.alsacreations.com/static/gabarits/liste.html>
 
-Attention, il ne s'agit pas de reproduire l'icone mais bien toute la
-page du gabarit !
+Please note, you must reproduce the entire template page! 
