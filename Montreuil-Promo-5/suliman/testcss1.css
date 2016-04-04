@@ -1,0 +1,106 @@
+p {
+	height: 300px;
+	width: 700px;
+	margin: 20px auto;
+	padding: 50px;
+	border-width: 10px;
+	position: relative;
+}
+
+img { 
+    
+    opacity: 0.8;
+}
+
+.centered {
+	position: absolute;
+	bottom: -389px;
+	left: 230px;
+	
+}
+
+.picleft {
+	position: absolute;
+	bottom: -235;
+	left: 13;
+}
+
+.picright {
+	position: absolute;
+	bottom: -235;
+	right: 13;
+}
+
+.inline {
+	display: inline;
+	z-index: -1;
+	display:flex;
+}
+.row {
+	display:inline-flex;
+	width: 100% ;
+	margin: 0 auto;
+	padding-top: 5px;
+	z-index: -1;
+
+}
+
+.col1 {
+	
+	background: url("life.jpg") center no-repeat ;
+	background-size: 100%;
+    width: 400px;
+    height: 300px;
+}
+.col2 {
+	background: url("life1.jpg") center no-repeat;
+	background-size: 100%;
+    width: 400px;
+    height: 300px;
+}
+.col3 {
+	background: url("life_.jpg") center no-repeat;
+	background-size: 100%;
+    width: 400px;
+    height: 300px;
+}
+.table
+{
+	display: table;
+	margin: 10px auto;
+	overflow: hidden;
+	width: 80% ;
+	height: 75% ;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	}
+
+.center {
+	border: 5px solid black;
+	width: 65%;
+	height:100%;
+	float: left;
+}
+.left {
+	border: 5px solid blue;
+	width: 20%;
+	height:100%;
+	float: left;
+}
+.right{
+    border: 5px solid red;
+	width: 15%;
+	height:100%;
+	float: left;
+}
+.ulpic {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+.life {
+	list-style-image: url("sqpurple.gif");
+	margin-left: 20px;
+}
+
