@@ -48,49 +48,42 @@ EXERCICE 1 - HTML
 
 **Test 1 :**
 
-Créer deux paragraphes d'une hauteur de 300 pixels et d'une largeur de
-700 pixels. Y inclure un texte très long et gérer son débordement afin
-qu'il soit entièrement lisible.
+Create two paragraphs with a height of 300 pixels and a width of 700 pixels. Include a very long 
+text and manage the overflow so it’ll be fully legible.
 
 **Test 2 :**
 
-Créer cinq titres de niveau 2 et les afficher sous forme de liste (voir
-la propriété `display`).
+Create five Titles (level 2) and display them as a list (look for the property `display`).
 
 **Test 3 :**
 
-Dans un élément `<div>`, inclure un élément `<span>` contenant
-du texte et lui donner le style bloc.
+In a `<div>` element, include a `<span>` element with text inside and apply a bloc style.  
 
 **Test 4 :**
 
-Créer un menu vertical dont les éléments sont des liens `<a>`.
+Create a vertical menu whose items are links `<a>`.
 
 **Test 5 :**
 
-Créer une image contenant un paragraphe incluant du texte et deux
-éléments `<img />` qui se suivent. Faire flotter les images, la
-première à gauche et la seconde à droite.
+Create an image containing a paragraph with text and two consecutive elements `<img />`.
+Make images floating, the first on the left and the second on the right. 
 
 **Test 6 :**
 
-Placer trois images de tailles initiales différentes dans une page.
-Écrire les styles pour qu’elles s’affichent avec la même taille.
-Ensuite, positionner afin d’obtenir un effet de cascade avec un décalage
-horizontal et vertical constant pour chaque image par rapport à la
-précédente. L’utilisateur doit pouvoir mettre chacune d’elles au premier
-plan en cliquant dessus (voir la propriété `z-index`).
+Place three images of different sizes in the same page. Find the CSS properties so they will be 
+displayed with the same size. Then position them to get a cascade effect with constant horizontal 
+and vertical offset for each image relative to the previous one. The user must be able to put each 
+of them in the foreground by clicking on it (look at property `z-index`).
 
 **Test 7 :**
 
-Créer une mise en page à trois colonnes de largeurs respectives 20%, 65%
-et 15%. La première et la troisième doivent contenir respectivement un
-menu et une liste de liens crées à partir d'images. La colonne centrale
-doit posséder un contenu éditorial.
+Create a layout with three columns of respective widths of 20%, 65% and 15%. The first and third 
+ones respectively shall contain a menu and a list of links created from images. The central 
+column must have editorial content. 
 
 **Test 8 :**
 
-Créer une mise en page selon le modèle de la figure ci-dessous:
+Create a layout modeled on the figure below:
 
 ![](media/image01.png)
 
