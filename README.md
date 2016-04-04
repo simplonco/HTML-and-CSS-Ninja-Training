@@ -1,28 +1,29 @@
 # HTML and CSS Ninja Training
 
-**Prérequis HTML**
+**Prerequisites HTML**
 ------------------
 
-* Comprendre les [Sélecteurs CSS](http://discourse.simplon.co/t/selecteurs-css/32/1)
+* Understand [CSS selectors](http://discourse.simplon.co/t/selecteurs-css/32/1)
 
-* Comprendre width height padding border margin
+* Understand width height padding border margin
 
-**Cours**
+
+**Course**
 ---------
 
 <http://fr.learnlayout.com/>
 
-Page 1 à 6 : la plupart du temps, il est souhaitable que width et height intègrent le padding et border. Cette partie vous explique comment faire.
+Page 1 to 6: mostly, it’s better that the width and height integrate padding and border. This section tells you how to do that. 
 
-Pages 7 à 13 : explications sur le positionnement des éléments.
+Pages 7 to 13: explanations of the positioning of elements. 
 
-Page 14 : explication sur comment rendre un site responsive. Je recommande de sauter cette page pour le moment.
+Page 14: explanation on how to make a responsive website. Skip this page for the moment.
 
-Page 16 : description de display: inline-block pour aligner horizontalement des éléments qui d'habitude se rangent à la verticale.
+Page 16: description of `display: inline-block` to horizontally align elements that usually line up vertically. 
 
-Page 17 jusqu'à la fin : Je recommande de sauter ces pages pour le moment.
+Page 17: Skip this page for the moment. 
 
-Après tout cela, vous aurez compris l'essentiel de CSS et pourrez passer sereinement à la suite (JavaScript) !
+After all this, you understand the essentials of CSS and can confidently move on!  
 
 **Attributs utilisés**
 ----------------------
