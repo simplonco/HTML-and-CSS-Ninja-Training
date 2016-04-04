@@ -5,7 +5,7 @@
 
 * Understand [CSS selectors](http://discourse.simplon.co/t/selecteurs-css/32/1)
 
-* Understand width height padding border margin
+* Understand `width`, `height`, `padding`, `border` and `margin`
 
 
 **Course**
@@ -25,21 +25,21 @@ Page 17: Skip this page for the moment.
 
 After all this, you understand the essentials of CSS and can confidently move on!  
 
-**Attributs utilisés**
+**Attributes used**
 ----------------------
 
 ```css
-    \* pour définir à la main la largeur des éléments *\
+    /* to definewidth of elements */
     display: inline-block;
     
-    \* indispensable avec inline-block *\
+    /* needed with inline­block */
     vertical-align: top;
-    box-sizing: border-box; \* cf. cours pour comprendre *\
+    box-sizing: border-box;
     width: 100%;
     min-height: 100px;
     border: 1px #000 solid;
-    margin: 0; \* marge externe *\
-    padding: 0; \* marge interne *\
+    margin: 0; /* outer margin */  
+    padding: 0; /* internal margin */
 ```
 ------------------------------------------------------------
 
