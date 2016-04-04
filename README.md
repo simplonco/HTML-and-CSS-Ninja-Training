@@ -13,7 +13,7 @@
 
 <http://fr.learnlayout.com/>
 
-Page 1 to 6: mostly, it’s better that the width and height integrate padding and border. This section tells you how to do that. 
+Page 1 to 6: mostly, it’s better that the `width` and `height` integrate `padding` and `border`. This section tells you how to do that. 
 
 Pages 7 to 13: explanations of the positioning of elements. 
 
@@ -39,7 +39,7 @@ After all this, you understand the essentials of CSS and can confidently move on
     min-height: 100px;
     border: 1px #000 solid;
     margin: 0; /* outer margin */  
-    padding: 0; /* internal margin */
+    padding: 0; /* inner margin */
 ```
 ------------------------------------------------------------
 
@@ -73,7 +73,7 @@ Make images floating, the first on the left and the second on the right.
 Place three images of different sizes in the same page. Find the CSS properties so they will be 
 displayed with the same size. Then position them to get a cascade effect with constant horizontal 
 and vertical offset for each image relative to the previous one. The user must be able to put each 
-of them in the foreground by clicking on it (look at property `z-index`).
+of them in the foreground by mouse hover on it (look at property `z-index`).
 
 **Test 7 :**
 
