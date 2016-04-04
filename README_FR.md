@@ -1,4 +1,4 @@
-# HTML and CSS Ninja Training
+# Entrainement Ninja au HTML et CSS !
 
 **Prérequis HTML**
 ------------------
