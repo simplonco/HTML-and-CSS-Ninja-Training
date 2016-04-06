@@ -1,0 +1,121 @@
+.all-you-need {
+  background-color: green;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  display: table;
+  font-family: "tondo",sans-serif;
+  margin: 0 auto;
+  overflow: hidden;
+  width: 100%;
+  height: 0px;
+  box-sizing: border-box;
+}
+.col1 {
+  background: url("http://media02.hongkiat.com/baby_photography/baby_photography.jpg") center no-repeat;
+  height: 400px;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding: auto;
+  background-size: cover;
+}
+.col2{ 
+   background: url("https://s-media-cache-ak0.pinimg.com/736x/93/a7/a3/93a7a3254bd4168b060f47d7d552acdf.jpg") center no-repeat;
+  left: 0px;
+  height: 500px;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-top: 0px;
+   background-size: cover;
+}
+.col3 {
+  background: url("http://cache3.asset-cache.net/gc/182953404-month-old-baby-girl-sleeping-in-cream-gettyimages.jpg?v=1&c=IWSAsset&k=2&d=jnNWTaOPiFWuxle0AIP%2BZhmsUqNlzUdMhFz9kW3navUKWcoVjUzRz2VIdwJINzUZ") center no-repeat;
+  height: 600px;
+  margin-bottom: 0;
+  margin-top: 0;
+   background-size: cover;
+}
+
+
+.all-you-need1 {
+  border: 5px solid green;
+  background-color: white;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  display: table;
+  font-family: "tondo",sans-serif;
+  margin: 10px auto 0px;
+  overflow: hidden;
+  width: 80%;
+  height: 25%;
+  
+}
+.all-you-need2 {
+
+  
+  background-color: white;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  display: table;
+  font-family: "tondo",sans-serif;
+  margin: 0 auto;
+  overflow: hidden;
+  width: 80%;
+  height: 75%;
+  box-sizing: border-box;
+}
+.col4 
+{
+ border: 5px solid red;
+  background-color: white;
+width: 30%;
+  height: 100%;
+}
+.col5 
+{
+ border: 5px solid blue;
+  background-color: white;
+width: 70%;
+  height: 100%;
+}
+.img {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+}
+
+.all-you-need3{
+background-color: green;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  display: table;
+  font-family: "tondo",sans-serif;
+  margin: 10px auto;
+  overflow: hidden;
+  width: 80%;
+  height: 75%;
+  box-sizing: border-box;
+}
+.col6
+{
+ border: 5px solid blue;
+  background-color: white;
+width: 20%;
+  height: 100%;
+}
+
+
+.col7
+{
+ border: 5px solid red;
+  background-color: white;
+width: 65%;
+  height: 100%;
+}
+.col8
+{
+ border: 5px solid blue;
+  background-color: white;
+width: 15%;
+  height: 100%;
+}
